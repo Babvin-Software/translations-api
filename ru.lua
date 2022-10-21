@@ -1,5 +1,3 @@
-local translations = {
+return {
   "Hello" = "Привет"
 }
-
-return translations
