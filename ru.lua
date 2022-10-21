@@ -1,3 +1,3 @@
-local t = {
+translations = {
   ["Hello"] = "Привет"
 };
