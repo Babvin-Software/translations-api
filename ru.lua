@@ -1,0 +1,3 @@
+local translations = {
+  "Hello" = "Привет"
+}
