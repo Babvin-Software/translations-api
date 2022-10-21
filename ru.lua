@@ -1,4 +1,4 @@
 local t = {
-  "Hello" = "Привет"
+  ["Hello"] = "Привет"
 }
 return t
